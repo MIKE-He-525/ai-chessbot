@@ -1,0 +1,59 @@
+[
+  {
+    "timestamp": "2025-12-03T10:20:36",
+    "mode": "M2M",
+    "white_ai": "Advanced AI (Game-Depth 5)",
+    "white_type": "advanced",
+    "white_difficulty": 5,
+    "black_ai": "Alpha-Beta AI (Advanced-Depth 4)",
+    "black_type": "alphabeta",
+    "black_difficulty": 4,
+    "result": "black",
+    "winner": "Black (Alpha-Beta AI (Advanced-Depth 4))",
+    "moves": 70,
+    "move_delay": 1.0,
+    "score": 0
+  },
+  {
+    "timestamp": "2025-12-13T18:58:40",
+    "mode": "H2M",
+    "player_color": "White",
+    "ai_type": "greedy",
+    "ai_name": "Greedy AI (Intermediate)",
+    "difficulty": 2,
+    "result": "black",
+    "human_outcome": "Loss",
+    "moves": 10,
+    "score": 66
+  },
+  {
+    "timestamp": "2025-12-16T07:25:07",
+    "mode": "M2M",
+    "white_ai": "Random AI (Beginner)",
+    "white_type": "random",
+    "white_difficulty": 3,
+    "black_ai": "Alpha-Beta AI (Advanced-Depth 4)",
+    "black_type": "alphabeta",
+    "black_difficulty": 4,
+    "result": "black",
+    "winner": "Black (Alpha-Beta AI (Advanced-Depth 4))",
+    "moves": 18,
+    "move_delay": 0.5,
+    "score": 0
+  },
+  {
+    "timestamp": "2025-12-16T07:28:44",
+    "mode": "M2M",
+    "white_ai": "Advanced AI (Game-Depth 5)",
+    "white_type": "advanced",
+    "white_difficulty": 3,
+    "black_ai": "Alpha-Beta AI (Advanced-Depth 4)",
+    "black_type": "alphabeta",
+    "black_difficulty": 4,
+    "result": "black",
+    "winner": "Black (Alpha-Beta AI (Advanced-Depth 4))",
+    "moves": 70,
+    "move_delay": 0.5,
+    "score": 0
+  }
+]
